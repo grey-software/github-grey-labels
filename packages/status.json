@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Status: Blocked",
+
+        "color": "#e221ed",
+
+        "description": "This issue is blocked by another unresolved issue."
+
+    }, {
+        "name": "Status: In Discussion",
+
+        "color": "#7793dd",
+
+        "description": "This issue has an ongoing discussion that hasn't reached a consensus. Please contribute!"
+
+    }
+
+]

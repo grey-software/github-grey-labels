@@ -1,0 +1,22 @@
+{
+  "name": "github-grey-labels",
+  "version": "1.0.0",
+  "description": "A collection of Github Labels for Grey Software repositories.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grey-software/github-grey-labels.git"
+  },
+  "keywords": [
+    "labels",
+    "github",
+    "git",
+    "utils",
+    "grey"
+  ],
+  "author": "Grey Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grey-software/github-grey-labels/issues"
+  },
+  "homepage": "https://github.com/grey-software/github-grey-labels#readme"
+}

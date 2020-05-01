@@ -1,0 +1,32 @@
+[
+
+    {
+        "name": "Priority: Low",
+
+        "color": "#009800",
+
+        "description": "This issue can wait, and can probably be picked up by anyone looking to contribute to the project."
+
+    }, {
+        "name": "Priority: Medium",
+
+        "color": "#fbca04",
+
+        "description": "This issue is useful, and needs some attention."
+
+    }, {
+        "name": "Priority: High",
+
+        "color": "#eb6420",
+
+        "description": "fter critical issues are fixed, these should be dealt with before any further issues."
+
+    }, {
+        "name": "Priority: Critical",
+
+        "color": "#E11E20",
+
+        "description": "This should be dealt with ASAP. Not fixing this issue would be a serious error."
+
+    }
+]

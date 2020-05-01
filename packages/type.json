@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Type: Bug",
+
+        "color": "#e11d21",
+
+        "description": "An issue that causes problems for users and developers."
+
+    }, {
+        "name": "Type: Enhancement",
+
+        "color": "#84b6eb",
+
+        "description": "An issue that adds new featurer or technology."
+
+    }, {
+        "name": "Type: Maintenance",
+
+        "color": "#fbca04",
+
+        "description": "An issue that make things clearer or removes ambiguity without changing base functionality."
+
+    }, {
+        "name": "mylabel",
+        "color": "ff0000",
+        "description": "optional"
+    }
+]

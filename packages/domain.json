@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Domain: Config",
+        "color": "#b56edd",
+
+        "description": "This issue is related to configuration changes."
+
+    },
+    {
+        "name": "Domain: Dev Experience",
+
+        "color": "#18e295",
+
+        "description": "This issue pertains to a developer's emotions and attitudes when building Grey Software."
+
+    },
+    {
+        "name": "Domain: Documentation",
+
+        "color": "#514fe2",
+        "description": "An issue that seeks clarification, and would be helpful to have answered on the docs."
+
+    },
+    {
+        "name": "Domain: Performance",
+
+        "color": "#f74fdb",
+
+        "description": "This issue is about monitoring or improving the performance of Grey Software."
+
+    }, {
+        "name": "Domain: Security",
+
+        "color": "#0c58d3",
+
+        "description": "This issue pertains to identifying vulnerabilities in and improving the security of Grey Software."
+
+    }, {
+        "name": "Domain: Testing",
+
+        "color": "#86f411",
+
+        "description": "This issue is about testing and QA."
+
+    }, {
+        "name": "Domain: Tooling",
+
+        "color": "#fbca04",
+
+        "description": "This issue focuses on the build system, linting, test tooling, etc."
+
+    }, {
+        "name": "Domain: User Experience",
+
+        "color": "#f4cfb0",
+
+        "description": "This issue pertains to a user's emotions and attitudes about using Grey Software."
+
+    }
+]
